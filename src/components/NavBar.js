@@ -11,7 +11,7 @@ const NavBar = () => {
             <AppBar>
                 <Toolbar>
                         <img src={Logo} alt='logo' width="160px" className="imagen-nav"/>
-                    <Typography variant="6" > Prueba Trainee BiceVida</Typography>
+                    <Typography variant="h6" > Prueba Trainee BiceVida</Typography>
                 </Toolbar>
             </AppBar>
             <div className={classes.offset}></div>
